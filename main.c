@@ -10,6 +10,7 @@
 
 int main(void)
 {
+	WDT_A_holdTimer();
 	HW_Init();
 	curr_state = run;
 
@@ -19,8 +20,6 @@ int main(void)
 }
 
 void HW_Init(){
-	WDT_A_holdTimer();
-
 	/* Zero-filling buffer */
 	memset(resultsBuffer, 0x00, 3);
 
@@ -83,8 +82,8 @@ void run_f() {
 }
 
 void tone(){
-	// Generate PWM of f=10kHz => T=100µs
-	// t=T/2 = 50µs 
+	// Generate PWM of f=10kHz => T=100Âµs
+	// t=T/2 = 50Âµs 
 	for(i=0; i<100; i++){
 		GPIO_toggleOutputOnPin(GPIO_PORT_P5, GPIO_PIN6);
 		delay_us(50);
