@@ -21,7 +21,7 @@ The code was written and developed with reference to the following manuals: <br>
 * [**BOUMERZOUG Nadhir** ](https://github.com/nadirboumerzoug)<br>
   * Master of Science in Computer Engineering<br>
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:bmrzgnadir@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/nadhirboumerzoug/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/nadirboumerzoug)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/nadhirboumerzoug/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/nadirboumerzoug)
 
 * [**BAYOU Meroua** ](https://github.com/MerouaBa)<br>
   * Master of Science in Computer Engineering<br>
