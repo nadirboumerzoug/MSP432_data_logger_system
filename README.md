@@ -1,7 +1,7 @@
-# **MSP432 based real-time data logger with an alarm clock **
+# MSP432 based real-time data logger with an alarm clock
 ## **Description**
-This repository contains a mini project done as a completion of the *Embedded Systems* course as part of a Master of Science in Computer Engineering at the Institute of Electrical & Electronic Engineering, University of Boumerdes, Algeria.
-The code was written and developed based on readings of the following manuals:
+This repository contains a mini project done as a completion of the *Embedded Systems* course as part of a Master of Science in Computer Engineering at the Institute of Electrical & Electronic Engineering, University of Boumerdes, Algeria.<br>
+The code was written and developed based on readings of the following manuals:<br>
 [Manuals](https://github.com/nadirboumerzoug/MS432_data_logger_system/tree/master/Manuals)
 
 
@@ -21,7 +21,8 @@ The code was written and developed based on readings of the following manuals:
 * [**BOUMERZOUG Nadhir** ](https://github.com/nadirboumerzoug)<br>
   * Master of Science in Computer Engineering<br>
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:bmrzgnadir@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/nadhirboumerzoug) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)]([https://github.com/jminjares4](https://github.com/nadirboumerzoug))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/nadhirboumerzoug/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/nadirboumerzoug)
+
 * [**BAYOU Meroua** ](https://github.com/MerouaBa)<br>
   * Master of Science in Computer Engineering<br>
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:bayoumeroua2@gmail.com) 
