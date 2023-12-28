@@ -1,5 +1,5 @@
 /*
- * Embedded Systems Mini Project with MSP432
+ * Embedded Systems Mini Project with MSP432P401R
  * Real-time Data Logger with an Alarm Clock
  * Authors: BOUMERZOUG Nadhir, BAYOU Meroua
  * MSc Computer Engineering
