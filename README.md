@@ -1,7 +1,7 @@
 # MSP432 based real-time data logger with an alarm clock
 ## **Description**
-This repository contains a mini project done as a completion of the *Embedded Systems* course as part of a Master of Science in Computer Engineering at the Institute of Electrical & Electronic Engineering, University of Boumerdes, Algeria.<br>
-The code was written and developed based on readings of the following manuals:<br>
+This repository comprises a mini project completed as part of the **Embedded Systems** course for the *Master of Science in Computer Engineering* at the Institute of Electrical and Electronic Engineering, University of Boumerdes, Algeria.<br>
+The code was written and developed with reference to the following manuals: <br>
 [Manuals](https://github.com/nadirboumerzoug/MS432_data_logger_system/tree/master/Manuals)
 
 
