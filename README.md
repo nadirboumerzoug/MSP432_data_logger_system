@@ -20,7 +20,7 @@ The code was written and developed with reference to the following manuals: <br>
 
 Explore comprehensive tutorials by Texas Instruments (TI) on YouTube for clear explanations and demonstrations on how to use the different debugging features provided by CCS IDE:
 - [Tutorial 1: Registers View](https://www.youtube.com/watch?v=5UqvUOpf5H8&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=20)
-- [Tutorial 2: Variables/Expressions View]([https://www.youtube.com/watch?v=5UqvUOpf5H8&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=20](https://www.youtube.com/watch?v=I1uwIgzNvNA&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=19))
+- [Tutorial 2: Variables/Expressions View]([https://www.youtube.com/watch?v=5UqvUOpf5H8&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=20](https://www.youtube.com/watch?v=I1uwIgzNvNA&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=19)
 
 
 
