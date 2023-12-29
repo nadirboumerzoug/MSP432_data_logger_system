@@ -16,7 +16,7 @@ The code was written and developed with reference to the following manuals: <br>
 **Add report**
 
 ## **Usage**
-The user can only access the *edit mode* by pressing one of the keys: '#' or '*'. The '*' key enables the user to change the system date and time. The user then enters one digit at a time to set the day, then month, then year, then hours, then minutes (from left to right). On the other hand, if the user pushes the '#' key, the system will alow him to set an alarm clock (hours/minutes), check RTC Alarm examples on (manual page and section) for better understanding. Finally, if no key is pressed, the LCD displays the system date and time on the first row, being updated each one minute, and the captured sensors values in volts (Potentiometer, temperature, light) on the second row, which are updated each one second. The system is also showing a blinking red LED (LED0). <br>
+The user can only access the *edit mode* by pressing one of the keys: '#' or [*]. The '*' key enables the user to change the system date and time. The user then enters one digit at a time to set the day, then month, then year, then hours, then minutes (from left to right). On the other hand, if the user pushes the '#' key, the system will alow him to set an alarm clock (hours/minutes), check RTC Alarm examples on (manual page and section) for better understanding. Finally, if no key is pressed, the LCD displays the system date and time on the first row, being updated each one minute, and the captured sensors values in volts (Potentiometer, temperature, light) on the second row, which are updated each one second. The system is also showing a blinking red LED (LED0). <br>
 The following video shows a better explanation on the usage of this project.<br>
 (include video)
 
