@@ -16,10 +16,9 @@ The code was written and developed with reference to the following manuals: <br>
 
 
 
-## Debugging
+## Debugging Tools
 
-Explore comprehensive tutorials by Texas Instruments (TI) on YouTube for clear explanations and demonstrations on how to use them:
-
+Explore comprehensive tutorials by Texas Instruments (TI) on YouTube for clear explanations and demonstrations on how to use the different debugging features provided by CCS IDE:
 - [Tutorial 1: Introduction to RTC](https://www.youtube.com/watch?v=5UqvUOpf5H8&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=20)
 - [Tutorial 2: Advanced RTC Usage](https://www.youtube.com/watch?v=5UqvUOpf5H8&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=20)
 
@@ -28,7 +27,8 @@ Explore comprehensive tutorials by Texas Instruments (TI) on YouTube for clear e
 ## **Usage**
 The user can only access the *edit mode* by pressing one of the keys: `#` or `*`. The `*` key enables the user to change the system date and time. The user then enters one digit at a time to set the day, then month, then year, then hours, then minutes (from left to right). On the other hand, if the user pushes the `#` key, the system will alow him to set an alarm clock (hours/minutes), check RTC Alarm examples on (manual page and section) for better understanding. Finally, if no key is pressed, the LCD displays the system date and time on the first row, being updated each one minute, and the captured sensors values in volts (Potentiometer, temperature, light) on the second row, which are updated each one second. The system is also showing a blinking red LED (LED0). <br>
 The following video shows a better explanation on the usage of this project.<br>
-[![Watch the Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[Watch the Video](https://youtu.be/vnx6vwibcns?si=IBeD4j8kxLlfd3S9)
+
 
 
 
