@@ -30,7 +30,7 @@ The following video shows a better explanation on the usage of this project.<br>
 
 
 ## **Project Report**
-The following [report](https://github.com/nadirboumerzoug/MSP432_data_logger_system/blob/master/Embedded_Systems_Project_Report.pdf) contains the 
+The following [report](https://github.com/nadirboumerzoug/MSP432_data_logger_system/blob/master/Embedded_Systems_Project_Report.pdf) showcases our initiative to create this project, including FSM, schematic, and results.
 
 
 ## **Authors**
