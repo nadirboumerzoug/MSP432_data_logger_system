@@ -34,7 +34,7 @@ The following video shows a better explanation on the usage of this project.<br>
 
 
 
-## **Authors:**
+## **Authors**
 * [**BOUMERZOUG Nadhir** ](https://github.com/nadirboumerzoug)<br>
   * Master of Science in Computer Engineering<br>
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:bmrzgnadir@gmail.com) 
