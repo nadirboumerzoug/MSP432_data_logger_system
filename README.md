@@ -3,7 +3,7 @@
 This repository comprises a mini project, completed as part of the **Embedded Systems** course for the *Master of Science in Computer Engineering* program, at the Institute of Electrical and Electronic Engineering, University of Boumerdes, Algeria.<br>
 
 ## **Documentation**
-The code was written and developed with reference to the following manuals: <br>
+The source codes were written and developed with reference to the following manuals: <br>
 [Manuals](https://github.com/nadirboumerzoug/MS432_data_logger_system/tree/master/Manuals)
 
 
@@ -14,9 +14,7 @@ The code was written and developed with reference to the following manuals: <br>
 
 
 
-
-
-## Debugging Tools
+## **Debugging Tools**
 
 Explore comprehensive tutorials by Texas Instruments (TI) on YouTube for clear explanations and demonstrations on how to use the different debugging features provided by CCS IDE:
 - [Tutorial 1: Registers View](https://www.youtube.com/watch?v=5UqvUOpf5H8&list=PL3NIKJ0FKtw4OhL1t4gf3Jzltma6-QEU6&index=20)
@@ -31,7 +29,8 @@ The following video shows a better explanation on the usage of this project.<br>
 
 
 
-
+## **Project Report**
+The following [report](https://github.com/nadirboumerzoug/MSP432_data_logger_system/blob/master/Embedded_Systems_Project_Report.pdf) contains the 
 
 
 ## **Authors**
