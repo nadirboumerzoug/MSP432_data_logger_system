@@ -1,5 +1,6 @@
 # MSP432 based real-time data logger with an alarm clock
-![Uploading CONSOL.PNG…]()
+![Alt text](./CONSOL.PNG)
+
 
 ## **Description**
 This repository comprises a mini project, completed as part of the **Embedded Systems** course for the *Master of Science in Computer Engineering* program, at the Institute of Electrical and Electronic Engineering, University of Boumerdes, Algeria.<br>
