@@ -6,8 +6,8 @@
 This repository comprises a mini project, completed as part of the **Embedded Systems** course for the *Master of Science in Computer Engineering* program, at the Institute of Electrical and Electronic Engineering, University of Boumerdes, Algeria.<br>
 
 ## **Documentation**
-The source codes were written and developed with reference to the following manuals: <br>
-[Manuals](https://github.com/nadirboumerzoug/MS432_data_logger_system/tree/master/Manuals)
+The source codes were written and developed with reference to the following 
+[Manuals](https://github.com/nadirboumerzoug/MS432_data_logger_system/tree/master/Manuals).
 
 
 ## **Development**
